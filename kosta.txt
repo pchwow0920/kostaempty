@@ -3,3 +3,4 @@ kosta2
 kosta3
 kosta_main
 kosta_hotfix
+kosta_empty
